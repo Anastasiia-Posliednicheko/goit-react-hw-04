@@ -1,4 +1,4 @@
-button.load-more {
+button {
   padding: 10px 20px;
   background-color: #f48fb1;
   border: none;
@@ -10,6 +10,6 @@ button.load-more {
   display: block;
 }
 
-button.load-more:hover {
+button:hover {
   background-color: #f06292;
 }
