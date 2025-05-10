@@ -7,6 +7,7 @@ import LoadMoreBtn from "./components/LoadMoreBtn";
 import ImageModal from "./components/ImageModal";
 import axios from "axios";
 import toast, { Toaster } from "react-hot-toast";
+import css from "./App.module.css";
 
 
 
